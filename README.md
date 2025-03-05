@@ -7,3 +7,4 @@ Official issue tracker for the **free version** of WP inPIPE by Seresa. Report b
 3. Provide as much detail as possible, including screenshots if necessary.  
 
 🚀 **Need priority support?** Upgrade to WP inPIPE Premium for dedicated assistance!  
+🔗 https://seresa.io
